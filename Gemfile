@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.6.3'
+gem 'jekyll', '~> 4.2.0'
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 # For what ~> means, see https://robots.thoughtbot.com/rubys-pessimistic-operator
